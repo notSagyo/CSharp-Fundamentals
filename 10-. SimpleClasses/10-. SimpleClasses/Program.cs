@@ -11,7 +11,7 @@ namespace SimpleClasses
         static void Main(string[] args)
         {
             //Creating and using Car Class' Object --------------------------//
-            Car myCar = new Car();
+            Car myCar   = new Car();
             myCar.Make  = "Ferrari";
             myCar.Model =      "F8";
             myCar.Year  =      2019;
