@@ -53,8 +53,8 @@ namespace Strings
 
 
             //Manipulate Strings --------------------------------------------//
-            myString = "Fuck you. Please remove that 32.Hello World!";
-            myString =  myString.Substring(32, 8);
+            myString = "f you. Please remove that 29.Hello World!";
+            myString =  myString.Substring(29, 8);
             Print(myString);
             NewLine();
 
@@ -66,8 +66,8 @@ namespace Strings
             Print(myString);
             NewLine();
 
-            myString = "You're fucking boring";
-            myString = myString.Remove(7, 8);
+            myString = "You're fricking boring";
+            myString = myString.Remove(7, 9);
             Print(myString);
             NewLine();
 
