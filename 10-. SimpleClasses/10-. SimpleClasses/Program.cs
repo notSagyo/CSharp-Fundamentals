@@ -13,9 +13,9 @@ namespace SimpleClasses
             //Creating and using Car Class' Object --------------------------//
             Car myCar   = new Car();
             myCar.Make  = "Ferrari";
-            myCar.Model =      "F8";
-            myCar.Year  =      2019;
-            myCar.Color =     "Red";
+            myCar.Model = "F8"     ;
+            myCar.Year  = 2019     ;
+            myCar.Color = "Red"    ;
 
 
             Console.WriteLine("Your car is: {0} {1} {2} {3}",
